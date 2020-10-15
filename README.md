@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for SWARNALATHA
 
 ```markdown
 Syntax highlighted code block
@@ -19,7 +19,7 @@ Syntax highlighted code block
 - List
 
 1. Numbered
-2. List
+2. List SWARNALATHA
 
 **Bold** and _Italic_ and `Code` text
 
